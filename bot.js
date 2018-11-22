@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const client = new Discord.Client();
  const prefix = "L";
 client.on('ready', () => {
-  client.user.setGame(`»Tφp★ Support Server Gaming_- .`,'https://www.twitch.tv/v5bz');
+  client.user.setGame(`»Tφp★ Support Server Mal Shop ♥_- .`,'https://www.twitch.tv/v5bz');
   console.log('---------------');
   console.log('Desert Bot Is Online')
   console.log('---------------')
